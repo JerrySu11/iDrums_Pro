@@ -1,2 +1,2 @@
 ﻿# EIT_iDrums_Pro
-https://stackoverflow.com/questions/21667713/tkinter-background-while-loop
+This is a computer software that allows users to make drum sounds by swinging their phones. There are three mapped drum sounds for swinging phones in three different directions (left, middle, right), and the volume of the drum sound is determined by the speed of the swing. The swing data of phone (IMU data) is streamed to the computer through [phyphox](https://apps.apple.com/us/app/phyphox/id1127319693).
